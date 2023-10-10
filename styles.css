@@ -9,11 +9,12 @@
 }
 
 article {
-  letter-spacing: 2px;
   writing-mode: vertical-rl;
   font-family: serif;
-  line-height: 1.5;
   font-size: 110%;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  overflow: auto;
 }
 
 article h1 {
